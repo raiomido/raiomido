@@ -8,7 +8,7 @@ My experience includes **developing and maintaining robust back-end systems**, *
 
 My tech stack of choice is ✨**Ruby on Rails**✨, **React JS**, and **Tailwind CSS**, but I can also build very robust systems using **Laravel**, **WordPress**, and **VueJS**.
 
-For deployment, I like to deploy both the front-end and backend to **Digital Ocean** and serve static files through a custom CDN service via **Digital Ocean Spaces**.
+For deployment, I like to deploy both the front-end and backend to **Digital Ocean** and serve static files through a custom CDN service via **Digital Ocean Spaces**. Here are some projects I have worked on recently;
 
 - [My personal Blog](https://yadaspot.com) ~ ✨**Ruby on Rails**✨, ✨**Tailwind CSS**✨, ✨**ReactJs**✨, ✨**Typescript**✨, ✨**GraphQL**✨
 - [Win Ocean Company Website](https://winocean.co.ke) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨

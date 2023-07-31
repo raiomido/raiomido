@@ -10,7 +10,20 @@ My tech stack of choice is ✨**Ruby on Rails**✨, **React JS**, and **Tailwind
 
 For deployment, I like to deploy both the front-end and backend to **Digital Ocean** and serve static files through a custom CDN service via **Digital Ocean Spaces**.
 
-Here are some facts about me:
+- [https://yadaspot.com](My personal Blog) ~ ✨**Ruby on Rails**✨, ✨**Tailwind CSS**✨, ✨**ReactJs**✨, ✨**Typescript**✨, ✨**GraphQL**✨
+- [https://winocean.co.ke](Win Ocean Company Website) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨
+- [https://streamnetworking.com](eCommerce App) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨
+- [https://snobole.com](My Freelancing Website) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨ 
+- [https://sellihub.com](eCommerce App) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨ 
+- [https://wildvisionadventures.com](Safari Company Website) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**VueJs**✨ 
+
+### Other technologies and tools;
+- Sideqik
+- Redis
+- Docker
+- AWS
+
+### Here are some facts about me:
 
 - 🔭 I’m currently working on [https://yadaspot.com](Yadaspot)
 - 🌱 I’m currently learning **Data Structures & Algorithms**

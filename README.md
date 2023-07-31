@@ -29,4 +29,4 @@ For deployment, I like to deploy both the front-end and backend to **Digital Oce
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **Robust RoR/ Laravel Projects**
 - 💬 Ask me about **How to get started in your Sofware Engineering journey**
-- 📫 How to reach me: **[yadaspotke@gmail.com](malto:yadaspotke@gmail.com)**
+- 📫 How to reach me: **<yadaspotke@gmail.com>**

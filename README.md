@@ -10,12 +10,12 @@ My tech stack of choice is ✨**Ruby on Rails**✨, **React JS**, and **Tailwind
 
 For deployment, I like to deploy both the front-end and backend to **Digital Ocean** and serve static files through a custom CDN service via **Digital Ocean Spaces**.
 
-- [https://yadaspot.com](My personal Blog) ~ ✨**Ruby on Rails**✨, ✨**Tailwind CSS**✨, ✨**ReactJs**✨, ✨**Typescript**✨, ✨**GraphQL**✨
-- [https://winocean.co.ke](Win Ocean Company Website) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨
-- [https://streamnetworking.com](eCommerce App) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨
-- [https://snobole.com](My Freelancing Website) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨ 
-- [https://sellihub.com](eCommerce App) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨ 
-- [https://wildvisionadventures.com](Safari Company Website) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**VueJs**✨ 
+- [My personal Blog](https://yadaspot.com) ~ ✨**Ruby on Rails**✨, ✨**Tailwind CSS**✨, ✨**ReactJs**✨, ✨**Typescript**✨, ✨**GraphQL**✨
+- [Win Ocean Company Website](https://winocean.co.ke) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨
+- [eCommerce App](https://streamnetworking.com) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨
+- [My Freelancing Website](https://snobole.com) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨ 
+- [eCommerce App](https://sellihub.com) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**Livewire**✨ 
+- [Safari Company Website](https://wildvisionadventures.com) ~ ✨**Laravel**✨, ✨**Tailwind CSS**✨, ✨**VueJs**✨ 
 
 ### Other technologies and tools;
 - Sideqik
@@ -25,8 +25,8 @@ For deployment, I like to deploy both the front-end and backend to **Digital Oce
 
 ### Here are some facts about me:
 
-- 🔭 I’m currently working on [https://yadaspot.com](Yadaspot)
+- 🔭 I’m currently working on [Yadaspot](https://yadaspot.com)
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **Robust RoR/ Laravel Projects**
 - 💬 Ask me about **How to get started in your Sofware Engineering journey**
-- 📫 How to reach me: **[malto:yadaspotke@gmail.com](yadaspotke@gmail.com)**
+- 📫 How to reach me: **[yadaspotke@gmail.com](malto:yadaspotke@gmail.com)**

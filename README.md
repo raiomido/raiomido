@@ -12,7 +12,7 @@ I design and develop robust web applications and scalable data pipelines that po
 
 **Data Engineering** — Designing and maintaining end-to-end analytics pipelines using the modern data stack: ingestion, transformation, orchestration, and visualization at scale.
 
-**Infrastructure** — Deploying resilient systems on **Digital Ocean** and **AWS**, with containerized workflows via **Docker**.
+**Infrastructure** — Deploying resilient systems on **Digital Ocean** and **AWS**, with containerized workflows via **Docker** and **Kubernetes**.
 
 ---
 

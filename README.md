@@ -2,7 +2,7 @@
 
 **Fullstack Engineer & Data Platform Architect** based in Nairobi, Kenya 🇰🇪
 
-I build robust web applications and architect scalable data pipelines that power critical systems across Africa — including **tax administration platforms** and **advanced analytics solutions** for governments.
+I design and develop robust web applications and scalable data pipelines that power critical systems across Africa — including **tax administration platforms** and **advanced analytics solutions** for governments.
 
 ---
 

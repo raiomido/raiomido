@@ -49,7 +49,7 @@ I design and develop robust web applications and scalable data pipelines that po
 
 - **Government Tax Systems** — Architecting data platforms that process and analyze tax data for African governments, enabling better compliance and revenue insights.
 - **Analytics Pipelines** — Building lakehouse architectures with Spark, Trino, and Iceberg/Polaris for petabyte-scale analytics.
-- [yacooti.com](https://yacooti.com) — Personal blog built with Rails, React, GraphQL, and Tailwind.
+- [yacooti.com](https://yacooti.com) — Freelancing site powered by Laravel and Livewire.
 - [snobole.com](https://snobole.com) — Freelancing site powered by Laravel and Livewire.
 
 ---
